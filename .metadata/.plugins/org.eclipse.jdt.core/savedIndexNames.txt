@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+D:\TAI_LIEU_HOC_TAP\?A CSNM\FileExplorer\.metadata\.plugins\org.eclipse.jdt.core
+1775078947.index
+2103231971.index
+737697892.index
+772092027.index
+3539761008.index

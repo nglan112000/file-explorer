@@ -1,0 +1,99 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: WW/7UiFgu6zjTX5vqZXt4SvaFR70G
+ arCROnY3liF+iE=
+SHA-256-Digest-Manifest: AqpKFITew35kQ80tfUoI45RMzZ7cBGhqGqxd5sHI6dQ=
+Created-By: 1.8.0_131 (Oracle Corporation)
+
+Name: net/miginfocom/layout/ResizeConstraint.class
+SHA-256-Digest: 88TjLtndH8nXrqsP3g8Cy4AXQ+E0TsMeJgdMW7CAt0U=
+
+Name: net/miginfocom/swing/SwingComponentWrapper.class
+SHA-256-Digest: EwnZ7MHEvcH+nNpEf1g9Kyb/604JZzTdtol4KaHTRCw=
+
+Name: net/miginfocom/layout/LayoutUtil.class
+SHA-256-Digest: 8HYHi1tFjgDR330AeAwH5r/dI0QCduO6P/YxrY3GFbo=
+
+Name: net/miginfocom/layout/AC.class
+SHA-256-Digest: kM7XSTOmvjiCedWcbi4e5PwMTAHgDQSRWhaVzD+t+NU=
+
+Name: net/miginfocom/layout/CC.class
+SHA-256-Digest: zHxL/zL/4l8zc0plqxV+NhN19IjnYk60mS8e34ax/Ck=
+
+Name: net/miginfocom/layout/UnitValue.class
+SHA-256-Digest: QKtIuBkvcRSj2t8JvUoXLfLwaHIKuNPd1LJfeOF2iJg=
+
+Name: net/miginfocom/layout/LayoutUtil$1.class
+SHA-256-Digest: 2tDp75h9Tp7bhsh/B8TLdlVcEivJOTlLtuatBZ+WlRM=
+
+Name: net/miginfocom/swing/SwingContainerWrapper.class
+SHA-256-Digest: YXVnH5LEYhNtXtSEQg/g1+qsYerwtLpK2ZI8PbHCWIg=
+
+Name: net/miginfocom/layout/Grid$CompWrap.class
+SHA-256-Digest: Nq1Uwmp/9/Hi9YH8f9wusC+vXU7HB+542tbozJlC3Jk=
+
+Name: net/miginfocom/swing/MigLayout$2.class
+SHA-256-Digest: k+Z4nfcgidAKaHlARQmqEE3HIRTvujYWjojSStr4LmM=
+
+Name: net/miginfocom/layout/Grid$FlowSizeSpec.class
+SHA-256-Digest: jVHOpPis++GIrLuL9W92YkUruwClTkcEjjS6WnX1Tho=
+
+Name: net/miginfocom/layout/PlatformDefaults.class
+SHA-256-Digest: jUNCMN/HyAWhTGG1wa1Ar0B7s6TnfxWeglm8vCpok/s=
+
+Name: net/miginfocom/layout/InCellGapProvider.class
+SHA-256-Digest: Nq/VmVXIisRbe/j35fppFwWHw1x/P5G6ir99v7CGVeQ=
+
+Name: net/miginfocom/layout/LinkHandler.class
+SHA-256-Digest: WUT2baThwcoaQNTZUSOUp/nolh7uijW+Evuok+pn3is=
+
+Name: net/miginfocom/layout/ContainerWrapper.class
+SHA-256-Digest: r6vnXIrSK+5Ac7IDFGkO8EHsd5B1aKqGiUYFVFnSJ1U=
+
+Name: net/miginfocom/layout/UnitValue$1.class
+SHA-256-Digest: kdOhaNMHOVMQTzlXAKaSfebi8wMtmkgcF9WN6s6njOo=
+
+Name: net/miginfocom/layout/Grid$1.class
+SHA-256-Digest: lgoKzhDCsyqNHi6myR4QBwihufqbvpja5bpJnjkZhBM=
+
+Name: net/miginfocom/layout/BoundSize.class
+SHA-256-Digest: s/XYnhvnURMgGx8KN5esP0xUGRm33kj0hLUh0eqiaCY=
+
+Name: net/miginfocom/layout/DimConstraint.class
+SHA-256-Digest: v5qQMjnLhSllBvMkunRtyGLOWqc8uOc+LFzQaOd2ark=
+
+Name: net/miginfocom/layout/BoundSize$1.class
+SHA-256-Digest: Hs8eluw97oDaH8Md2zM5ZgYTtN7UcQ2SOhyOlnY71UA=
+
+Name: net/miginfocom/layout/Grid$Cell.class
+SHA-256-Digest: amItPMa0eCvsd1Mv8dcLr3GiccT3uDE/nYlgco3jwWo=
+
+Name: net/miginfocom/layout/LayoutCallback.class
+SHA-256-Digest: vUS4KZ+xprpgikaFdbgpTeLlEfSS6WZpe1jrnc/tZj8=
+
+Name: net/miginfocom/swing/MigLayout.class
+SHA-256-Digest: f3ExwYEOtdHzNi/rCNqpD32xOX5TYv+KUfgI7ZsWd/k=
+
+Name: net/miginfocom/layout/LC.class
+SHA-256-Digest: SR3H4OujMNvGbyTLDsr/ncUc3Pz5ntG459m6fbR/UxU=
+
+Name: net/miginfocom/swing/MigLayout$1.class
+SHA-256-Digest: dbHuYWmlYDnXihfG9ok+gT7WotCs9ItDTFJYF/Y0u1A=
+
+Name: net/miginfocom/layout/UnitConverter.class
+SHA-256-Digest: LoWoFNLZ7QrK9GQ6zZdcthgnNXH4Um8qVdAKhavlH4E=
+
+Name: net/miginfocom/layout/ComponentWrapper.class
+SHA-256-Digest: YP3YuQuSErtM2EChFws4iMEapY79fyupDRPuErRtf+k=
+
+Name: net/miginfocom/layout/ConstraintParser.class
+SHA-256-Digest: lc/YKpUlZG9MAbxLe75/R4AYfurYvXuFqNucTkwdNWM=
+
+Name: net/miginfocom/layout/Grid$LinkedDimGroup.class
+SHA-256-Digest: edwdsp/lbsR8LMXM1ozglcIt89cMWLJdm/MavfQfW8A=
+
+Name: net/miginfocom/swing/MigLayout$MyDebugRepaintListener.class
+SHA-256-Digest: kYhDZ60Ei5s0krRI6A1DiLvlCeHmhpTrjzRSQef3DgY=
+
+Name: net/miginfocom/layout/Grid.class
+SHA-256-Digest: 9avIxMaej3U+xqD/EaBBWP0z1Tq/IuOXd+0mbzwNglY=
+
